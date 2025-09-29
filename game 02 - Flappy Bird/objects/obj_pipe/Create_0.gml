@@ -1,0 +1,1 @@
+x_speed = obj_game.pipe_speed;
