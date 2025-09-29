@@ -38,6 +38,18 @@ Each folder in this repository contains one project, complete with source files 
 
 ---
 
+## 📦 Releases
+
+Playable builds (`.exe` files) will be published in the [Releases](../../releases) section of this repository.  
+
+- Each game will have its own release package for quick play.  
+- No need for GameMaker Studio — just download, extract, and run the `.exe`.  
+- Windows builds will be provided first (other platforms later if possible).  
+
+👉 Check the [Releases page](../../releases) to download and play the latest versions.
+
+---
+
 ## 🛠 Tech / Tools Used
 
 - **GameMaker Language (GML)**  
