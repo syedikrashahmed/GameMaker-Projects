@@ -14,7 +14,7 @@ Each folder in this repository contains one project, complete with source files 
   - ⬅️ / ➡️ Arrows – Rotate ship  
   - Space – Shoot bullets  
 
-### 🐦 Game 02 – Flappy Bird
+### 🐤 Game 02 – Flappy Bird
 - **Rules:** Keep the bird flying by flapping through gaps in the pipes. Hitting a pipe or the ground ends the game.  
 - **Controls:**  
   - Space / Mouse Click – Flap upward  
